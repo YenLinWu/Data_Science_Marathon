@@ -42,6 +42,17 @@
 
 ## 統計的基礎知識 
 
+- [離散型均勻分布( Discrete Uniform Distribution )](https://zh.wikipedia.org/wiki/%E9%9B%A2%E6%95%A3%E5%9E%8B%E5%9D%87%E5%8B%BB%E5%88%86%E4%BD%88)  
+- [伯努利分佈( Bernoulli Distribution )](https://zh.wikipedia.org/wiki/%E4%BC%AF%E5%8A%AA%E5%88%A9%E5%88%86%E5%B8%83)  
+> 為一伯努力試驗(Bernoulli Trail)，即表示只有兩種結果(成功、失敗)的隨機試驗。  
+- [二項式分佈( Binomial Distribution )](https://zh.wikipedia.org/wiki/%E4%BA%8C%E9%A0%85%E5%BC%8F%E5%88%86%E5%B8%83)  
+> 為一伯努利過程(Bernoulli Process)，係重複 n 次伯努利試驗，其中，當 n=1 時為伯努利分佈。
+- [負二項式分佈( Negative Binomial Distribution )](https://zh.wikipedia.org/wiki/%E8%B4%9F%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83)  
+> 持續進行伯努利試驗，直到第 r 次成功時才停止，伯努利試驗總共進行 X 次的機率分佈。  
+- [超幾何分佈( Hypergeometric Distribution )](https://zh.wikipedia.org/wiki/%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83) 
+> 在 N 個樣本中有 K 個為我們所關心的類型樣本。從 N 個樣本中取出 n 個(取後不放回)，而這 n 個當中有 k 個屬於我們所關心的類型的機率。
+
+
 | 主題 | 範例 | 作業 | 作業解答 | 
 | ---------- | :-----------: | :-----------: | :-----------: | 
 | 用統計描述資料的樣態 | [Day_26_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_26_SampleCode.ipynb) | [Day_26_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_26_HW.ipynb) | [Day_26_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_26_Solution.ipynb) |   
@@ -49,3 +60,6 @@
 | 用機率分布描述亂中有序的世界 - 離散型分配(2) | [Day_28_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_28_SampleCode.ipynb) | [Day_28_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_28_HW.ipynb) | [Day_28_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_28_Solution.ipynb) | 
 | 用機率分布描述亂中有序的世界 - 連續型分配 | [Day_29_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_29_SampleCode.ipynb) | [Day_29_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_29_HW.ipynb) | [Day_29_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_29_Solution.ipynb) | 
 | 用貝氏定理讓你決策更精準 | [Day_30_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_30_SampleCode.ipynb) | [Day_30_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_30_HW.ipynb) | [Day_30_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_30_Solution.ipynb) | 
+| 掌握 A/B Test 的精隨 - 假設檢定的概念 | [Day_31_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_31_SampleCode.ipynb) | [Day_31_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_31_HW.ipynb) | [Day_31_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_31_Solution.ipynb) |   
+| 掌握 A/B Test 的精隨 - 假設檢定的進階概念與種類 | [Day_32_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_32_SampleCode.ipynb) | [Day_32_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_32_HW.ipynb) | [Day_32_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_32_Solution.ipynb) |  
+| A/B Test 的執行流程與計算 | [Day_33_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_33_SampleCode.ipynb) | [Day_33_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_33_HW.ipynb) | [Day_33_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_33_Solution.ipynb) | 
