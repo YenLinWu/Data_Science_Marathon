@@ -42,6 +42,7 @@
 
 ## 統計的基礎知識 
 
+### Probability Distribution
 - [離散型均勻分布( Discrete Uniform Distribution )](https://zh.wikipedia.org/wiki/%E9%9B%A2%E6%95%A3%E5%9E%8B%E5%9D%87%E5%8B%BB%E5%88%86%E4%BD%88)  
 - [伯努利分佈( Bernoulli Distribution )](https://zh.wikipedia.org/wiki/%E4%BC%AF%E5%8A%AA%E5%88%A9%E5%88%86%E5%B8%83)  
 > 為一伯努力試驗(Bernoulli Trail)，即表示只有兩種結果(成功、失敗)的隨機試驗。  
@@ -50,7 +51,14 @@
 - [負二項式分佈( Negative Binomial Distribution )](https://zh.wikipedia.org/wiki/%E8%B4%9F%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83)  
 > 持續進行伯努利試驗，直到第 r 次成功時才停止，伯努利試驗總共進行 X 次的機率分佈。  
 - [超幾何分佈( Hypergeometric Distribution )](https://zh.wikipedia.org/wiki/%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83) 
-> 在 N 個樣本中有 K 個為我們所關心的類型樣本。從 N 個樣本中取出 n 個(取後不放回)，而這 n 個當中有 k 個屬於我們所關心的類型的機率。
+> 在 N 個樣本中有 K 個為我們所關心的類型樣本。從 N 個樣本中取出 n 個(取後不放回)，而這 n 個當中有 k 個屬於我們所關心的類型的機率。  
+- [常態分佈( Normal Distribution )](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83)
+
+### Reference 
+- [Standardizing](https://www.mathsisfun.com/data/standard-normal-distribution.html)  
+- [Introduction to Bayesian Inference](https://towardsdatascience.com/introduction-to-bayesian-inference-18e55311a261)  
+- [Bayesian Inference](https://seeing-theory.brown.edu/bayesian-inference/index.html)
+- [How Bayesian inference works](https://e2eml.school/how_bayesian_inference_works.html)
 
 
 | 主題 | 範例 | 作業 | 作業解答 | 
