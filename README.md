@@ -73,6 +73,8 @@
 
 ## 手把手來場資料科學專案吧! 
 
+### Reference 
+- [Three ways to detect outliers](http://colingorrie.github.io/outlier-detection.html)  
 
 | 主題 | 範例 | 作業 | 作業解答 | 
 | ---------- | :-----------: | :-----------: | :-----------: | 
