@@ -74,7 +74,8 @@
 ## 手把手來場資料科學專案吧! 
 
 ### Reference 
-- [Three ways to detect outliers](http://colingorrie.github.io/outlier-detection.html)  
+- [Three ways to detect outliers](http://colingorrie.github.io/outlier-detection.html)    
+- [KNNImputer: A robust way to impute missing values (using Scikit-Learn)](https://www.analyticsvidhya.com/blog/2020/07/knnimputer-a-robust-way-to-impute-missing-values-using-scikit-learn/)
 
 | 主題 | 範例 | 作業 | 作業解答 | 
 | ---------- | :-----------: | :-----------: | :-----------: | 
