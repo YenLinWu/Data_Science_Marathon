@@ -76,6 +76,7 @@
 ### Reference 
 - [Three ways to detect outliers](http://colingorrie.github.io/outlier-detection.html)    
 - [KNNImputer: A robust way to impute missing values (using Scikit-Learn)](https://www.analyticsvidhya.com/blog/2020/07/knnimputer-a-robust-way-to-impute-missing-values-using-scikit-learn/)
+- [Feature Selection Methods for Data Science (just a few)](https://medium.com/analytics-vidhya/feature-selection-methods-for-data-science-just-a-few-fca3086eb445)
 
 | 主題 | 範例 | 作業 | 作業解答 | 
 | ---------- | :-----------: | :-----------: | :-----------: | 
