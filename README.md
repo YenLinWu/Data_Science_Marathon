@@ -87,3 +87,10 @@
 | 探索性資料分析(EDA)_探討變數之間的關係 | [Day_38_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_38_SampleCode.ipynb) | [Day_38_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_38_HW.ipynb) | [Day_38_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_38_Solution.ipynb) | 
 | 探索性資料分析(EDA)_從資料中生成特徵 | [Day_39_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_39_SampleCode.ipynb) | [Day_39_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_39_HW.ipynb) | [Day_39_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_39_Solution.ipynb) | 
 | 探索性資料分析(EDA)_從資料中選取好的特徵 | [Day_40_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_40_SampleCode.ipynb) | [Day_40_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_40_HW.ipynb) | [Day_40_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_40_Solution.ipynb) | 
+
+## 專題實作
+| 主題 |  
+| ---------- | 
+| [COVID 19 資料視覺化](https://github.com/YenLinWu/Data_Science_Marathon/blob/main/Homework/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%AF%A6%E4%BD%9C(%E4%B8%80)/COVID-19%20%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96.ipynb) | 
+| [Netfiex 資料視覺化]() | 
+| [不動產時價登入分析]() |
