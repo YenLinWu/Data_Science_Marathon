@@ -111,7 +111,7 @@ Back to [學習大綱](#學習大綱)
 | 主題 |  
 | ---------- | 
 | [COVID 19 資料視覺化](https://github.com/YenLinWu/Data_Science_Marathon/blob/main/Homework/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%AF%A6%E4%BD%9C(%E4%B8%80)/COVID-19%20%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96.ipynb) | 
-| [Netfiex 資料視覺化]() | 
+| [Netfiex 資料視覺化](https://github.com/YenLinWu/Data_Science_Marathon/blob/main/Homework/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%AF%A6%E4%BD%9C(%E4%B8%80)/Netfiex%20%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96.ipynb) | 
 | [不動產時價登入分析]() |
 
 Back to [學習大綱](#學習大綱)
