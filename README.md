@@ -1,6 +1,13 @@
 # Python 資料科學程式馬拉松
 
-## NumPy 程式開發實作
+## 學習大綱
+* [NumPy 程式開發實作](#NumPy_程式開發實作)
+* [Pandas 程式開發實作](#Pandas_程式開發實作)  
+* [Matplotlib / Seaborn 資料視覺化](#Matplotlib/Seaborn_資料視覺化)
+* [統計的基礎知識](#統計的基礎知識)
+* [手把手來場資料科學專案吧!](#手把手來場資料科學專案吧!)
+
+## NumPy_程式開發實作
 
 | 主題 | 範例 | 作業 | 作業解答 | 
 | ---------- | :-----------: | :-----------: | :-----------: | 
@@ -12,6 +19,8 @@
 | 使用 NumPy 存取各種檔案內容 | [Day_06_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_06_SampleCode.ipynb) | [Day_06_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_06_HW.ipynb) | [Day_06_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_06_Solution.ipynb) |  
 | NumPy 的矩陣函式與線性代數應用 | [Day_07_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_07_SampleCode.ipynb) | [Day_07_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_07_HW.ipynb) | [Day_07_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_07_Solution.ipynb) |  
 | NumPy 結構化陣列(Structured Arrays) | [Day_08_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_08_SampleCode.ipynb) | [Day_08_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_08_HW.ipynb) | [Day_08_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_08_Solution.ipynb) |  
+
+Back to [學習大綱](#學習大綱)
 
 ## Pandas 程式開發實作
 
@@ -27,7 +36,9 @@
 | Pandas 時間序列 | [Day_16_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_16_SampleCode.ipynb) | [Day_16_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_16_HW.ipynb) | [Day_16_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_16_Solution.ipynb) |  
 | Pandas 效能調校 | [Day_17_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_17_SampleCode.ipynb) | [Day_17_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_17_HW.ipynb) | [Day_17_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_17_Solution.ipynb) |  
 
-## Matplotlib / Seaborn 資料視覺化(Data Visualization) 
+Back to [學習大綱](#學習大綱)
+
+## Matplotlib / Seaborn 資料視覺化  
 
 | 主題 | 範例 | 作業 | 作業解答 | 
 | ---------- | :-----------: | :-----------: | :-----------: | 
@@ -39,6 +50,8 @@
 | Bokeh 輕鬆以網頁呈現視覺化圖表 | [Day_23_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_23_SampleCode.ipynb) | [Day_23_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_23_HW.ipynb) | [Day_23_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_23_Solution.ipynb) | 
 | Basemap 進行地理資訊繪圖 | [Day_24_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_24_SampleCode.ipynb) | [Day_24_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_24_HW.ipynb) | [Day_24_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_24_Solution.ipynb) | 
 | 使用 Pandas 與 Basemap 將數據整合於地理資訊圖表 | [Day_25_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_25_SampleCode.ipynb) | [Day_25_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_25_HW.ipynb) | [Day_25_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_25_Solution.ipynb) |   
+
+Back to [學習大綱](#學習大綱)
 
 ## 統計的基礎知識 
 
@@ -71,6 +84,8 @@
 | 掌握 A/B Test 的精隨 - 假設檢定的進階概念與種類 |  | [Day_32_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_32_HW.ipynb) | [Day_32_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_32_Solution.ipynb) |  
 | A/B Test 的執行流程與計算 | [Day_33_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_33_SampleCode.ipynb) | [Day_33_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_33_HW.ipynb) | [Day_33_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_33_Solution.ipynb) | 
 
+Back to [學習大綱](#學習大綱)
+
 ## 手把手來場資料科學專案吧! 
 
 ### Reference 
@@ -88,9 +103,14 @@
 | 探索性資料分析(EDA)_從資料中生成特徵 | [Day_39_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_39_SampleCode.ipynb) | [Day_39_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_39_HW.ipynb) | [Day_39_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_39_Solution.ipynb) | 
 | 探索性資料分析(EDA)_從資料中選取好的特徵 | [Day_40_Sample](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Sample%20Code/Day_40_SampleCode.ipynb) | [Day_40_HW](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Homework/Day_40_HW.ipynb) | [Day_40_Solution](https://github.com/YenLinWu/DataScienceMarathon/blob/main/Solution/Day_40_Solution.ipynb) | 
 
+Back to [學習大綱](#學習大綱)
+
 ## 專題實作
+
 | 主題 |  
 | ---------- | 
 | [COVID 19 資料視覺化](https://github.com/YenLinWu/Data_Science_Marathon/blob/main/Homework/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%AF%A6%E4%BD%9C(%E4%B8%80)/COVID-19%20%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96.ipynb) | 
 | [Netfiex 資料視覺化]() | 
 | [不動產時價登入分析]() |
+
+Back to [學習大綱](#學習大綱)
