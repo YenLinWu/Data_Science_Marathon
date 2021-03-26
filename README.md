@@ -108,10 +108,10 @@ Back to [學習大綱](#學習大綱)
 
 ## 專題實作
 
-| 主題 |  
-| ---------- | 
-| [COVID 19 資料視覺化](https://github.com/YenLinWu/Data_Science_Marathon/blob/main/Homework/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%AF%A6%E4%BD%9C(%E4%B8%80)/COVID-19%20%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96.ipynb) | 
-| [Netfiex 資料視覺化](https://github.com/YenLinWu/Data_Science_Marathon/blob/main/Homework/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%AF%A6%E4%BD%9C(%E4%B8%80)/Netfiex%20%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96.ipynb) | 
-| [不動產時價登入分析]() |
+| 主題 | 參考解答 | 
+| ---------- | ---------- |
+| [COVID 19 資料視覺化](https://github.com/YenLinWu/Data_Science_Marathon/blob/main/Homework/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%AF%A6%E4%BD%9C(%E4%B8%80)/COVID-19%20%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96.ipynb) | |  
+| [Netfiex 資料視覺化](https://github.com/YenLinWu/Data_Science_Marathon/blob/main/Homework/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%AF%A6%E4%BD%9C(%E4%B8%80)/Netfiex%20%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96.ipynb) | |  
+| [不動產時價登入分析](https://github.com/YenLinWu/Data_Science_Marathon/blob/main/Homework/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%AF%A6%E4%BD%9C(%E4%BA%8C)/%E4%B8%8D%E5%8B%95%E7%94%A2%E6%99%82%E5%83%B9%E7%99%BB%E5%85%A5%E5%88%86%E6%9E%90.ipynb) | [Solution](https://github.com/YenLinWu/Data_Science_Marathon/blob/main/Solution/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%AF%A6%E4%BD%9C(%E4%BA%8C)/%E4%B8%8D%E5%8B%95%E7%94%A2%E6%99%82%E5%83%B9%E7%99%BB%E5%85%A5%E5%88%86%E6%9E%90_Soultion.ipynb) |  
 
 Back to [學習大綱](#學習大綱)
