@@ -5,7 +5,8 @@
 * [Pandas 程式開發實作](#Pandas_程式開發實作)  
 * [Matplotlib / Seaborn 資料視覺化](#Matplotlib/Seaborn_資料視覺化)
 * [統計的基礎知識](#統計的基礎知識)
-* [手把手來場資料科學專案吧!](#手把手來場資料科學專案吧!)
+* [手把手來場資料科學專案吧!](#手把手來場資料科學專案吧)
+* [期末專題實作](#專題實作)
 
 ## NumPy_程式開發實作
 
@@ -86,7 +87,7 @@ Back to [學習大綱](#學習大綱)
 
 Back to [學習大綱](#學習大綱)
 
-## 手把手來場資料科學專案吧! 
+## 手把手來場資料科學專案吧 
 
 ### Reference 
 - [Three ways to detect outliers](http://colingorrie.github.io/outlier-detection.html)    
